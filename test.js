@@ -6,6 +6,8 @@
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 
 //i am suman
+
+bumper offer !! delete my changed and get bashed !! free !! free !! free !!
 =======
 typeof "5";
 </script>
