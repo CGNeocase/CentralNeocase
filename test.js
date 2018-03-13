@@ -9,6 +9,8 @@ document.getElementById("demo").style.color = "red";
 document.getElementById("demo").style.backgroundColor = "yellow";
 //--Changes made by Riya BranchRiya--
 typeof "5";
+//i am suman
+bumper offer !! delete my changed and get bashed !! free !! free !! free !!
+typeof "5";
 </script>
-
-
+//--Changes made by Riya BranchRiya--
