@@ -4,6 +4,9 @@
 //Hello JS .. Let's do it! --Changes made by Riya--
 <script>
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
-</script>
 
 //i am suman
+=======
+typeof "5";
+</script>
+
