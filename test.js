@@ -6,3 +6,6 @@
 document.getElementById("demo").innerHTML = "Hello JavaScript!";
 </script>
 //--Changes made by Riya BranchRiya--
+typeof "5";
+</script>
+
